@@ -10,5 +10,10 @@ public class oneTest {
         objects.add("444");
         objects.add("555");
 
+
+        int a = 10 ;
+        int b = 20 ;
+        System.out.println(a + b);
+
     }
 }
